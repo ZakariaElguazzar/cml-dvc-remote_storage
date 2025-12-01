@@ -1,0 +1,12 @@
+RandomForest without-imbalance
+F1-score Training: 68.91%
+F1-score Validation: 56.88%
+----------------------------------------
+RandomForest with-class-weights
+F1-score Training: 78.93%
+F1-score Validation: 62.69%
+----------------------------------------
+RandomForest with-SMOTE
+F1-score Training: 87.58%
+F1-score Validation: 60.65%
+----------------------------------------
