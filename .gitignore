@@ -3,3 +3,5 @@ data/
 .dvc/gdrive-creds.json
 client_secret.json
 dvc/config.local
+/models
+/data
